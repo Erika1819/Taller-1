@@ -1,5 +1,5 @@
-##3.1 SUma de cubos
-suma_cubos = 0
+##3.1 Suma de cubos
+suma_cubos= 0
 
 for numero in range(1, 51):
     cubo = numero ** 3

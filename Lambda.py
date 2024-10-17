@@ -3,9 +3,9 @@ suma = lambda x, y: x + y
 numero1 = float(input("Número 1:"))
 numero2= float(input("Número 2:"))
 resultado = suma(numero1, numero2)
-print (resultado)
+print(resultado) 
 
-##4.2 numero par
+#4.2 numero par
 par=lambda x: x % 2 == 0
 numero=float(input("Ingrese número:"))
 print(par(numero))
